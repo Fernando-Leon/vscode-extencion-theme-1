@@ -1,0 +1,33 @@
+{
+  "name": "layonuno",
+  "displayName": "LayonUno",
+  "description": "Theme minimal",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Layon Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Layon Themes-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "Fernando Leon",
+    "email": "leon.monroy.fernando@gmail.com",
+    "url": "https://github.com/Fernando-Leon"
+  },
+  "repository": {
+    "url": "https://github.com/Fernando-Leon/vscode-extencion-theme-1",
+    "type": "git"
+  },
+  "publisher": "layon-extensions"
+
+}
